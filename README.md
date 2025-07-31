@@ -3,7 +3,7 @@
 # **👋 Hello!,I'm Aditya Sai V**
 
 🎓 **B.Tech CSE (AI & ML)** | Vellore Institute of Technology, Chennai (2021-2025)
-📍 Vijayawada, India | 📧 adityaicodecom@gmail.com | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/aditya-sai-veligatla/)
+📍 Vijayawada, India | 📧 adityaicodecom@gmail.com | [LinkedIn](https://www.linkedin.com/in/aditya-sai-veligatla-783b64342/)
 
 -----
 
@@ -75,7 +75,7 @@ I'm a B.Tech in Computer Science with a specialization in AI & ML graduate from 
 
 ## **🌍 Connect with Me\!**
 
-[LinkedIn](https://www.linkedin.com/in/aditya-sai-veligatla/)
+[LinkedIn](https://www.linkedin.com/in/aditya-sai-veligatla-783b64342/)
 [Mail](mailto:adityaicodecom@gmail.com)
 
 -----
