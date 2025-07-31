@@ -75,8 +75,8 @@ I'm a B.Tech in Computer Science with a specialization in AI & ML graduate from 
 
 ## **🌍 Connect with Me\!**
 
-[\<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" /\>](https://www.google.com/search?q=https://www.linkedin.com/in/aditya-sai-veligatla/)
-[\<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" /\>](mailto:adityaicodecom@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aditya-sai-veligatla/)
+[Mail](mailto:adityaicodecom@gmail.com)
 
 -----
 
