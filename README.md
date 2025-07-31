@@ -1,23 +1,21 @@
-Here's a beautified version of your GitHub README content, ready for direct copy-pasting:
-
 -----
 
-# 👋 Welcome to My GitHub\! I'm Aditya Sai Veligatla
+# **👋 Hello!,I'm Aditya Sai V**
 
 🎓 **B.Tech CSE (AI & ML)** | Vellore Institute of Technology, Chennai (2021-2025)
-📍 Based in Chennai, India | 📧 adityaicodecom@gmail.com | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/aditya-sai-veligatla/)
+📍 Vijayawada, India | 📧 adityaicodecom@gmail.com | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/aditya-sai-veligatla/)
 
 -----
 
-## 🚀 About Me
+## **🚀 About Me**
 
 I'm a passionate **Data Analyst** and **AI enthusiast** with a knack for turning raw data into actionable insights\! My journey in tech blends data analytics, machine learning, and cloud solutions to solve real-world problems. Whether it's crafting dynamic dashboards 📊 or diving into predictive modeling 🤖, I love exploring the intersection of data and innovation.
 
-Currently, I'm wrapping up my B.Tech in Computer Science with a specialization in AI & ML at VIT Chennai. My projects range from analyzing gaming trends on Steam 🎮 to detecting diabetic retinopathy using cutting-edge XAI techniques 🩺. I'm always eager to learn, collaborate, and push the boundaries of what's possible with data\!
+I'm a B.Tech in Computer Science with a specialization in AI & ML graduate from VIT Chennai. My projects range from analyzing gaming trends on Steam 🎮 to detecting diabetic retinopathy using cutting-edge XAI techniques 🩺. I'm always eager to learn, collaborate, and push the boundaries of what's possible with data\!
 
 -----
 
-## 🛠️ My Tech Stack
+## **🛠️ My Tech Stack**
 
 | Category           | Tools & Technologies                               |
 | :----------------- | :------------------------------------------------- |
@@ -25,11 +23,10 @@ Currently, I'm wrapping up my B.Tech in Computer Science with a specialization i
 | **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL   |
 | **Databases** | MySQL, Microsoft SQL Server                        |
 | **Cloud** | AWS (Certified Cloud Practitioner & Solutions Architect) |
-| **AI/ML** | MobileNet, Grad-CAM, XAI                           |
 
 -----
 
-## 🌟 Featured Projects
+## **🌟 Featured Projects**
 
 ### 🎮 Steam Decoded - Game Trends & Player Behavior
 
@@ -56,7 +53,7 @@ Currently, I'm wrapping up my B.Tech in Computer Science with a specialization i
 
 -----
 
-## 💼 Professional Experience
+## **💼 Professional Experience**
 
 ### Data Analyst Intern @ AtliQ Technologies (June 2025 - July 2025)
 
@@ -66,7 +63,7 @@ Currently, I'm wrapping up my B.Tech in Computer Science with a specialization i
 
 -----
 
-## 🎖️ Certifications
+## **🎖️ Certifications**
 
   * 🏆 **AWS Certified Solutions Architect - Associate** (Dec 2023)
   * 📊 **Power BI Data Analytics for All Levels 3.0** (Codebasics, May 2025)
@@ -76,20 +73,10 @@ Currently, I'm wrapping up my B.Tech in Computer Science with a specialization i
 
 -----
 
-## 🌍 Connect with Me\!
+## **🌍 Connect with Me\!**
 
 [\<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white" /\>](https://www.google.com/search?q=https://www.linkedin.com/in/aditya-sai-veligatla/)
 [\<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" /\>](mailto:adityaicodecom@gmail.com)
-
------
-
-## 📊 GitHub Stats
-
------
-
-## 🎉 Fun Fact
-
-When I'm not crunching data, you can find me exploring new game genres on Steam or binge-watching sci-fi series\! 🚀
 
 -----
 
