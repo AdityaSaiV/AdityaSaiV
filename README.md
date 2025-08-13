@@ -11,7 +11,7 @@
 
 I'm a passionate **Data Analyst** and **AI enthusiast** with a knack for turning raw data into actionable insights\! My journey in tech blends data analytics, machine learning, and cloud solutions to solve real-world problems. Whether it's crafting dynamic dashboards 📊 or diving into predictive modeling 🤖, I love exploring the intersection of data and innovation.
 
-I'm a B.Tech graduate in Computer Science with a specialization in AI & ML graduate from VIT Chennai. My projects range from analyzing gaming trends on Steam 🎮 to detecting diabetic retinopathy using cutting-edge XAI techniques 🩺. I'm always eager to learn, collaborate, and push the boundaries of what's possible with data\!
+I'm a B.Tech graduate in Computer Science with a specialization in AI & ML from VIT Chennai. My projects range from analyzing gaming trends on Steam 🎮 to detecting diabetic retinopathy using cutting-edge XAI techniques 🩺. I'm always eager to learn, collaborate, and push the boundaries of what's possible with data\!
 
 -----
 
